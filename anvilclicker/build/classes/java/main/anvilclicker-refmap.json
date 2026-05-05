@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/anvilclicker/mixin/HandledScreenMixin": {
+      "render": "Lnet/minecraft/class_465;method_25394(Lnet/minecraft/class_332;IIF)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/anvilclicker/mixin/HandledScreenMixin": {
+        "render": "Lnet/minecraft/class_465;method_25394(Lnet/minecraft/class_332;IIF)V"
+      }
+    }
+  }
+}
